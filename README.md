@@ -85,4 +85,4 @@ e. Create bins of these age values: 20-25, 25-30, 30-35, etc. Analyze different 
 
 Tableau Screen Shot-
 
-![Tableau](Tableau dashbord.PNG)
+![Tableau](https://github.com/SoumyaRSethi/Data-Science-Capstone-Healthcare/blob/d7b148f5b8ee701c43adde87660856b8e6095215/Tableau%20dashbord.PNG)
